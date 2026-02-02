@@ -1,0 +1,158 @@
+[2026-02-02 20:32:32.534312]
+[!] Suspicious Process: figma_agent.exe (PID 4332)
+[!] Suspicious Process: python.exe (PID 12480)
+
+[2026-02-02 20:32:32.535313]
+✔ No suspicious files detected.
+
+[2026-02-02 20:32:32.537321]
+[!] Suspicious Connection → 127.0.0.1:57716
+[!] Suspicious Connection → 64.233.170.188:5228
+[!] Suspicious Connection → 127.0.0.1:49703
+[!] Suspicious Connection → 127.0.0.1:49700
+[!] Suspicious Connection → 127.0.0.1:57711
+[!] Suspicious Connection → 127.0.0.1:49701
+[!] Suspicious Connection → 127.0.0.1:57710
+[!] Suspicious Connection → 127.0.0.1:49702
+[!] Suspicious Connection → 127.0.0.1:49698
+[!] Suspicious Connection → 127.0.0.1:49699
+[!] Suspicious Connection → 127.0.0.1:57717
+
+[2026-02-02 20:32:33.478188]
+✔ No abnormal behavior detected.
+
+[2026-02-02 20:33:11.144391]
+[!] Suspicious Process: figma_agent.exe (PID 4332)
+[!] Suspicious Process: python.exe (PID 12480)
+
+[2026-02-02 20:33:11.146393]
+✔ No suspicious files detected.
+
+[2026-02-02 20:33:11.149394]
+[!] Suspicious Connection → 127.0.0.1:57716
+[!] Suspicious Connection → 64.233.170.188:5228
+[!] Suspicious Connection → 127.0.0.1:49703
+[!] Suspicious Connection → 127.0.0.1:49700
+[!] Suspicious Connection → 127.0.0.1:57711
+[!] Suspicious Connection → 127.0.0.1:49701
+[!] Suspicious Connection → 127.0.0.1:57710
+[!] Suspicious Connection → 127.0.0.1:49702
+[!] Suspicious Connection → 127.0.0.1:49698
+[!] Suspicious Connection → 127.0.0.1:49699
+[!] Suspicious Connection → 127.0.0.1:57717
+
+[2026-02-02 20:33:12.294112]
+[!] High CPU Usage: System Idle Process (1116.9%)
+
+[2026-02-02 20:53:57.694944]
+[!] Suspicious Process Location: figma_agent.exe (PID 4332)
+[!] Suspicious Process Location: python.exe (PID 16964)
+
+[2026-02-02 20:53:57.694944]
+✔ No suspicious files detected.
+
+[2026-02-02 20:53:57.696827]
+[!] Unusual External Connection → 127.0.0.1:49703
+[!] Unusual External Connection → ::1:51904
+[!] Unusual External Connection → 192.168.1.13:61896
+[!] Unusual External Connection → ::1:51898
+[!] Unusual External Connection → 127.0.0.1:61904
+[!] Unusual External Connection → 127.0.0.1:57716
+[!] Unusual External Connection → 127.0.0.1:61905
+[!] Unusual External Connection → 127.0.0.1:57710
+[!] Unusual External Connection → 74.125.200.188:5228
+[!] Unusual External Connection → ::1:51895
+[!] Unusual External Connection → 127.0.0.1:61903
+[!] Unusual External Connection → 127.0.0.1:49699
+[!] Unusual External Connection → ::1:51899
+[!] Unusual External Connection → ::1:51906
+[!] Unusual External Connection → ::1:51908
+[!] Unusual External Connection → ::1:51897
+[!] Unusual External Connection → ::1:51907
+[!] Unusual External Connection → ::1:51905
+[!] Unusual External Connection → 127.0.0.1:57711
+[!] Unusual External Connection → 127.0.0.1:49700
+[!] Unusual External Connection → 127.0.0.1:61901
+[!] Unusual External Connection → 127.0.0.1:61902
+[!] Unusual External Connection → 127.0.0.1:49702
+[!] Unusual External Connection → ::1:51896
+[!] Unusual External Connection → 192.168.1.13:61895
+[!] Unusual External Connection → 127.0.0.1:49698
+[!] Unusual External Connection → 192.168.1.13:61899
+[!] Unusual External Connection → 127.0.0.1:49701
+[!] Unusual External Connection → 127.0.0.1:57717
+[!] Unusual External Connection → 192.168.1.13:61898
+[!] Unusual External Connection → 192.168.1.13:61897
+
+[2026-02-02 20:53:58.896346]
+✔ No abnormal behavior detected.
+
+[2026-02-02 20:56:50.153048]
+[!] Suspicious Process Location: figma_agent.exe (PID 4332)
+[!] Suspicious Process Location: python.exe (PID 4608)
+
+[2026-02-02 20:56:50.473986]
+✔ No suspicious files detected.
+
+[2026-02-02 20:56:50.489401]
+[!] Unusual External Connection → 127.0.0.1:49699
+[!] Unusual External Connection → 127.0.0.1:57711
+[!] Unusual External Connection → 127.0.0.1:49701
+[!] Unusual External Connection → 127.0.0.1:57710
+[!] Unusual External Connection → 127.0.0.1:57717
+[!] Unusual External Connection → 127.0.0.1:49700
+[!] Unusual External Connection → 127.0.0.1:49703
+[!] Unusual External Connection → 127.0.0.1:49698
+[!] Unusual External Connection → 74.125.200.188:5228
+[!] Unusual External Connection → 127.0.0.1:57716
+[!] Unusual External Connection → 127.0.0.1:49702
+
+[2026-02-02 20:56:51.638503]
+✔ No abnormal behavior detected.
+
+[2026-02-02 21:22:45.323220]
+[!] Suspicious Process Location: figma_agent.exe (PID 4332)
+[!] Suspicious Process Location: python.exe (PID 5836)
+
+[2026-02-02 21:22:45.738380]
+✔ No suspicious files detected.
+
+[2026-02-02 21:22:45.757446]
+[!] Unusual External Connection → 127.0.0.1:57716
+[!] Unusual External Connection → 74.125.200.188:5228
+[!] Unusual External Connection → 127.0.0.1:49699
+[!] Unusual External Connection → 127.0.0.1:57710
+[!] Unusual External Connection → 127.0.0.1:49698
+[!] Unusual External Connection → 127.0.0.1:57711
+[!] Unusual External Connection → 127.0.0.1:49702
+[!] Unusual External Connection → 127.0.0.1:49703
+[!] Unusual External Connection → 127.0.0.1:49701
+[!] Unusual External Connection → 127.0.0.1:57717
+[!] Unusual External Connection → 127.0.0.1:49700
+
+[2026-02-02 21:22:46.565759]
+✔ No abnormal behavior detected.
+
+[2026-02-02 21:23:35.350578]
+[!] Suspicious Process Location: figma_agent.exe (PID 4332)
+[!] Suspicious Process Location: python.exe (PID 5836)
+
+[2026-02-02 21:23:35.356659]
+✔ No suspicious files detected.
+
+[2026-02-02 21:23:35.361208]
+[!] Unusual External Connection → 127.0.0.1:57716
+[!] Unusual External Connection → 74.125.200.188:5228
+[!] Unusual External Connection → 127.0.0.1:49699
+[!] Unusual External Connection → 127.0.0.1:57710
+[!] Unusual External Connection → 127.0.0.1:49698
+[!] Unusual External Connection → 127.0.0.1:57711
+[!] Unusual External Connection → 127.0.0.1:49702
+[!] Unusual External Connection → 127.0.0.1:49703
+[!] Unusual External Connection → 127.0.0.1:49701
+[!] Unusual External Connection → 127.0.0.1:57717
+[!] Unusual External Connection → 127.0.0.1:49700
+
+[2026-02-02 21:23:36.090057]
+[!] High CPU Usage: System Idle Process (1061.1%)
+
